@@ -9,11 +9,36 @@ Day 1
 
 The new cohort of 16 excited eagar future coders arrive at 10 am to what will be our home for the next 7 weeks: located on the basement floor of one of Camden collective’s pop up shops on camden highstreet, I wasn’t sure what to expect. Turned out the basement location consists of a nice room complete with a chelsea fringe garden!
 
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+<body>
+	   <table>
+	   
+	    <thead>
+	     <th>A Table</th>
+	    </thead>
+	      <tbody>
+         	<tr>
+          <td> <img src = "https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg"/> </td>
+          <td> <img src = "https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg"/> </td>
+          <td> <img src = "https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg"/> </td>
+          <td> <img src = "https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg"/> </td>
+          </tr>
+          	
+	      </tbody>
+	
+	   </table>
+	</body>
+</html>
+          
 ![garden](https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg?raw=true)
 ![garden](https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg?raw=true)
 ![garden](https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg?raw=true)
 ![garden](https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg?raw=true)
-
 
 
 After introductory talks , from which the most important lesson was:
