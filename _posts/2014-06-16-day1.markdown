@@ -21,10 +21,10 @@ The new cohort of 16 excited eagar future coders arrive at 10 am to what will be
 	    </thead>
 	      <tbody>
          	<tr>
-          <td> <img src = "https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg"/> </td>
-          <td> <img src = "https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg"/> </td>
-          <td> <img src = "https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg"/> </td>
-          <td> <img src = "https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg"/> </td>
           </tr>
  	      </tbody>
 	
