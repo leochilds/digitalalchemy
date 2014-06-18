@@ -4,7 +4,6 @@ title:  "Coders Presentation"
 date:   2014-06-17 12:13:00
 categories: jekyll update
 ---
-#H1
 Day 1
 
 The new cohort of 16 excited eagar future coders arrive at 10 am to what will be our home for the next 7 weeks: located on the basement floor of one of Camden collective’s pop up shops on camden highstreet, I wasn’t sure what to expect. Turned out the basement location consists of a nice room complete with a chelsea fringe garden!
