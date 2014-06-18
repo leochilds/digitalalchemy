@@ -1,13 +1,26 @@
 ---
 layout: post
-title:  "Day 1"
-date:   2014-06-18 12:13:00
+title:  "Coders Presentation"
+date:   2014-06-17 12:13:00
 categories: jekyll update
 ---
 
-Presentation here - Ok
-Day 1 the new cohort of excitement eagar future coders arrive at 10 am. 
-to what will be our home for the next 7 week: located on the basement 
-floor of one of collective’s popus shops on camden highstreer, I wasn’t sure what to expect.
+Day 1
+
+The new cohort of 16 excited eagar future coders arrive at 10 am. 
+to what will be our home for the next 7 weeks: located on the basement 
+floor of one of Camden collective’s pop up shops on camden highstreet, I wasn’t sure what to expect. Turned out the basement location consists of a nice room complete with a chelsea fringe garden!
+
+Picture of garden
+
+After introductory talks , from which the most important lesson was:
+
+      The first rule of Code Academy is "Don't be an arse"...as is the second rule and the third
+
+Now feeling as though we were members of an underground coding club we were ready to begin.
+
+First Dan (the course leader) split into teams of 4, within which we would be working on 7 projects for the next 7 weeks.
+     
+          
+
 ![alt text](https://raw.githubusercontent.com/leochilds/leodev/gh-pages/images/Everyone.jpg)
-However after learning Lorem ipsum dolor sit amet, consectetuer adipiscing elite. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin
