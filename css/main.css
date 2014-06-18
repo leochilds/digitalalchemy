@@ -175,9 +175,11 @@ a:visited { color: #205caa; }
   font-size: 15px;
   color: #818181;
 }
-#twitterWiget {position: fixed;
-    top: 30px;
-    right: 5px;}
+
+#twittercontain
+
+#twitterBox {
+float: right; }
 
 /* Post styles */
 /* ----------------------------------------------------------*/
