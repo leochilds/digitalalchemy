@@ -424,3 +424,11 @@ width: 100%;
     margin: 0 0 15px; }
 
 }
+.garden {
+	width:100px;
+	height:100px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
