@@ -34,14 +34,6 @@ The new cohort of 16 excited eagar future coders arrive at 10 am to what will be
 	</body>
 </html>
 
-
-          
-![garden](https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg?raw=true)
-![garden](https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg?raw=true)
-![garden](https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg?raw=true)
-![garden](https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg?raw=true)
-
-
 After introductory talks , from which the most important lesson was:
 
       The first rule of Code Academy is "Don't be an arse"...as is the second rule and the third
@@ -51,5 +43,4 @@ Now feeling as though we were members of an underground coding club we were read
 First Dan (the course leader) split into teams of 4, within which we would be working on 7 projects for the next 7 weeks.
      
           
-
 ![alt text](https://raw.githubusercontent.com/leochilds/leodev/gh-pages/images/Everyone.jpg)
