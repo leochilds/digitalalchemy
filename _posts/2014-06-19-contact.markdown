@@ -1,0 +1,29 @@
+---
+layout: page
+title:  "jumbotron"
+date:   2014-06-18 12:13:00
+categories: jekyll update
+---
+
+<div class="jumbotron">
+        <h1>Contact</h1>
+        
+        <div class="row">
+ 	<div class="col-md-4">
+ 		<p>26 Camden High Street, London</p>
+		<p>0770293748594</p>
+ 	</div>
+ </div>
+ <div class="row">
+ 	<div class="col-md-4">
+		<textarea class="form-control" rows="2"></textarea>
+ 	</div>
+ 	<div
+
+<div class="row">
+ 	<div class="col-md-4">
+ 		<input class="btn btn-primary" type="submit" value="Submit">
+ 	</div>
+
+</div>
+      </div>
