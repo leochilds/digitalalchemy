@@ -5,4 +5,8 @@ date:   2014-06-17 12:13:00
 categories: jekyll update
 ---
 
-This is a new post made by
+Today we worked on adding widgets to the blog for twitter, google maps and instagram.
+
+Also making modifications to the structure/ template of the blog
+
+adding in twitter links and modifying-am""
