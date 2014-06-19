@@ -6,11 +6,7 @@ categories: jekyll update
 ---
 
 <div class="jumbotron">
-<<<<<<< HEAD
-        <h1>Hello, world!</h1>
-=======
         <h1>Team Digital alchemy</h1>
->>>>>>> 7a443c15cb3eeb0bc34db89ded17499ae2d98477
         <p>This is a template for a simple marketing or informational website. It includes a large callout called orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. </p>
         <p><a href="#" class="btn btn-primary btn-lg" role="button">Learn more »</a></p>
       </div>
@@ -32,7 +28,6 @@ categories: jekyll update
 <div class="row">
  	<div class="col-md-4">
  		<input class="btn btn-primary" type="submit" value="Submit">
-    
  	</div>
 
 </div>
