@@ -2,7 +2,7 @@
 title: Digital Alchemy
 email: leo.@live.com
 description: "This Amazing site was built using jekyll on github pages. This blog was put together toi aid learning in the Founders and Coders course"
-baseurl:
+baseurl: "/digitalalchemy"
 url: "http://yourdomain.com"
 twitterUsername: CodersandCoffee
 # Build settings
