@@ -9,4 +9,6 @@ Today we worked on adding widgets to the blog for twitter, google maps and insta
 
 Also making modifications to the structure/ template of the blog
 
-adding in twitter links and modifying-am""
+adding in twitter links and modifying
+
+
