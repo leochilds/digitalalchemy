@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-
-  <div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
-  <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+  <div class= container>
+    <div class "col1">
+    <p1> 26 Camden High Street <p>
+    <textarea class="form-control" rows="3"></textarea>
+    
+    
+    </div>
+    div class "col2"></div>
+ </div>
+ 
+ 
