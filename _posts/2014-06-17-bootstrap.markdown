@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <div class="jumbotron">
-        <h1>Hello, world!</h1>
+        <h1>Team Digital alchemy</h1>
         <p>This is a template for a simple marketing or informational website. It includes a large callout called orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. </p>
         <p><a href="#" class="btn btn-primary btn-lg" role="button">Learn more »</a></p>
       </div>
