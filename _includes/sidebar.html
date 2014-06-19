@@ -11,37 +11,13 @@
 
 						{% include twitter.html %}
 					
-						<!-- Text -->
-							<section class="is-text-style1">
-								<div class="inner">
-									<p>
-										<strong>Digital Alchemy</strong> A blog site for Founders and Coders II
-									</p>
-								</div>
-							</section>
+						<!--Text-->
+            {% include sidebartext.html %}
 					
 						<!-- Recent Posts -->
-							<section class="is-recent-posts">
-								<header>
-									<h2>Recent Posts</h2>
-								</header>
-								<ul>
-									{% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-								</ul>
-							</section>
+							{% include recentposts.html %}
             
              
             
 						<!-- Copyright -->
-							<div id="copyright">
-								<p>
-									&copy; 2014 Digital Alchemy.
-								</p>
-							</div>
-
-					</div>
+							{% include copyright.html %}
