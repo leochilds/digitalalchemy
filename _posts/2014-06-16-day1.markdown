@@ -11,7 +11,7 @@ The new cohort of 16 excited eagar future coders arrive at 10 am to what will be
 
 <html>
 	<head>
-		<link type="text/css" rel="stylesheet" href="{{"main.css" | prepend: site.baseurl }}"/>
+		<link type="text/css" rel="stylesheet" href="{{"/main.css" | prepend: site.baseurl }}"/>
 		<title>My Photo Page</title>
 	</head>
 <body>
